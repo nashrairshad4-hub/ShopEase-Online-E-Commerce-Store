@@ -1,0 +1,6 @@
+{
+  "name": "ShopEase – Online E-Commerce Store",
+  "description": "A modern, professional e-commerce platform built with responsive HTML5, Bootstrap 5 UI, product catalog, cart, checkout, order tracking, admin portal, and full Python Django MySQL codebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
