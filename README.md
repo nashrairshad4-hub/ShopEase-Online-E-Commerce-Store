@@ -1,1 +1,1 @@
-https://shopease-online-e-commerce-store.ai.studio
+https://shopease-online-e-commerce-store-production.up.railway.app/
